@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I’m Zeki Batuhan Meral aka @zbatuhan
+* I’m Zeki Batuhan Meral aka @zbatuhan
 
-I’m interested in data science and artifical intelligence.
+* I’m interested in data science and artifical intelligence.
 
-You can contact me at zekibatuhanmeral@gmail.com
+* You can contact me at zekibatuhanmeral@gmail.com
 
 <!--
 **zbatuhan/zbatuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
