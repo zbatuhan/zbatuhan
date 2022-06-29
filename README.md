@@ -2,7 +2,7 @@
 
 * I’m Zeki Batuhan Meral aka @zbatuhan
 
-* I’m interested in data science and artifical intelligence.
+* I’m interested in Python.
 
 * You can contact me at zekibatuhanmeral@gmail.com
 
