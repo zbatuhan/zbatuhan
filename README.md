@@ -2,7 +2,7 @@
 
 * I’m Zeki Batuhan Meral aka @zbatuhan
 
-* I’m interested in Python.
+* I’m interested in Python for 7 years and working a few years as "Full Stack Python Developer"
 
 * You can contact me at zekibatuhanmeral@gmail.com
 
