@@ -51,10 +51,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zbatuhan/zbatuhan/output/snake.svg" alt="Snake animation" />
-
-###
