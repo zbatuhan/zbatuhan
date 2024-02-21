@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋, I'm Zeki Batuhan Meral aka @zbatuhan, a full-stack python developer 👨‍💻 since 2018 🚀 </div>  
   
 
-- 🔭 I’m currently working on "Big Screen Automations Dashboard"   
+- 🔭 I’m currently working on "Big Screen Automations Tool Dashboard"   
   
 
 - 🌱 I’m currently learning VisionOS  
