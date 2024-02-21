@@ -3,22 +3,19 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk@master
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.zbatuhan }}
-          outputs: dist/snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
