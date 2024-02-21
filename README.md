@@ -94,8 +94,6 @@
 
 ###
 
-###
-
 <br clear="both">
 
 <img src="https://github.com/zbatuhan/zbatuhan/blob/output/snake.svg" alt="Snake animation" />
