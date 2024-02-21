@@ -91,3 +91,11 @@
 </div>  
   
 <br/>  
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/zbatuhan/zbatuhan/output/snake.svg?palette=github-dark" alt="Snake animation" />
+
+###
