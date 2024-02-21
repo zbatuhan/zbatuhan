@@ -98,6 +98,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zbatuhan/zbatuhan/tree/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/zbatuhan/zbatuhan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
